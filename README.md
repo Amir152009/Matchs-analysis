@@ -42,12 +42,13 @@ The dataset contains match-level data across several European football leagues.
 
 ## 📁 Project Structure
 
+```
 📦 project-root/
 ├── 📊 Match notebook.ipynb # Main analysis notebook
 ├── 📁 images/ # Visualizations & plots
 ├── 📄 README.md # Project overview
-└── 📁 data/  # Local dataset strage
-
+└── 📁 data/  # Local dataset storage
+```
 
 ---
 
